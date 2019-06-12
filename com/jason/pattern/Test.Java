@@ -24,10 +24,4 @@ public class OperatorClass {
 			operatorClass.getPolicyList().get(i).excute("parameter");
 		}
 	}
-	public void method1(){
-		System.out.println("This is second Revision ")
-	}
-	public void method2(){
-		System.out.println("This is third Revision ")
-	}
 }
